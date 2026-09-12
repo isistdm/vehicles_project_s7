@@ -16,3 +16,5 @@ Sigue estos pasos para ejecutar la aplicación en tu computadora:
    git clone https://github.com/isistdm/vehicles_project_s7.git
    cd vehicles_project_s7
 
+## 🌐 Demo en línea
+Prueba la aplicación aquí: [Análisis Interactivo de Vehículos](https://analisis-interactivo-de-vehiculos.onrender.com)
